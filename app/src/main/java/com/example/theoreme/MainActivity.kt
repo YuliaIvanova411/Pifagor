@@ -20,6 +20,9 @@ import java.math.RoundingMode
 import kotlin.math.pow
 import kotlin.math.sqrt
 
+
+//TODO какая-то херня с инфлэйтором и темой, типа все красиво, только не работает
+
 class MainActivity : AppCompatActivity() {
     lateinit var binding: ActivityMainBinding
 
