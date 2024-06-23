@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Theoreme</string>
+    <string name="title">Search "C"</string>
+    <string name="result_info">Result:&#160;</string>
+    <string name="value_a">Input A</string>
+    <string name="value_b">Input B</string>
+    <string name="result">Result</string>
+</resources>
